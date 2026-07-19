@@ -14,7 +14,7 @@ Habit Kingdom is a fantasy nutrition and habit tracker for people who want to tu
 
 ## Live link
 
-https://your-username.github.io/habit-kingdom/
+[https://svlasova.github.io/Habit-Kingdom/](https://svlasova.github.io/Habit-Kingdom/)
 
 ## How to use it
 
